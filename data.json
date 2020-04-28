@@ -1,0 +1,27 @@
+[{
+    "serviceId": "1",
+    "user": "Mamarre Rafael",
+    "requestedAt": "12 Abril 1999",
+    "acceptedAt": "12 Abril 1999",
+    "toStartAt": "12 Abril ",
+    "serviceRequested": "Hair Cut",
+    "price": "199"
+},{
+    "serviceId": "2",
+    "user": "Mari Cruz",
+    "requestedAt": "13 Abril 1999",
+    "acceptedAt": "13 Abril 1999",
+    "toStartAt": "14 Abril ",
+    "serviceRequested": "House Cleaning",
+    "price": "499"
+},{
+    "serviceId": "3",
+    "user": "Mari Chuy",
+    "requestedAt": "14 Abril 1999",
+    "acceptedAt": "14 Abril 1999",
+    "toStartAt": "15 Abril ",
+    "serviceRequested": "Car wash",
+    "price": "499"
+}
+
+]
